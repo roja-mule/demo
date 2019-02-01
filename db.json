@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Clients" : [
+    {companyName : "Google", location : "Hyderabad"}
+    {companyName : "Amazon", location : "Delhi"}
+    {companyName : "Oracle", location : "Sydney"}
+  ]
+  "Events" : [
+    {eventName : "KHEL", Venue : "Uppal"}
+    {eventName : "Run for Girl Child", Venue : "Waverock"}
+    {eventName : "TalkMasters", venue : "Gachibowli"}
+  ]
 }
